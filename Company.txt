@@ -2,3 +2,4 @@ OnePlus
 Xiomi
 Samsung
 Moto
+huweii
