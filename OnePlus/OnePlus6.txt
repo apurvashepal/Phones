@@ -2,5 +2,5 @@ Ram - 6 GB
 Rom - 128GB
 Rear Camera - 16 Mp + 20 Mp
 Display - Amoled
-Water Resistant - Yes
+Water Resistant - no
 Full Screen Display - Yes
